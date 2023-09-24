@@ -1,0 +1,718 @@
+[
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "profession": "Designer",
+                    "budget": "TBD",
+                    "heartCount": 0,
+                    "applicationsCount": 4,
+                    "listingTitle": "LA Fashion Week:Designer Casting Call",
+                    "published": true,
+                    "updatedAt": "Thu Sep 21 2023",
+                    "createdAt": "Tue Aug 29 2023",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Fjobs%2F2cWnvuxmo4eBAwxSyktC%2FBEF6CF31-2AE7-4EA0-B773-2363C00D9E92.jpeg?alt=media&token=b02cc6b0-269c-41a0-b396-27cd4febca7c",
+                    "endDate": null,
+                    "companyUid": "17eiVnaFAPS3rOP9x2vn",
+                    "industry": "Fashion",
+                    "listingDescription": "Are you a designer with a signature style that breaks boundaries? We are looking for independent designers to showcase their work on our runway during the LA Fashion Week.We're on a mission to bridge the worlds of fashion and music, creating a stage where your designs will come to life alongside mesmerizing music performances. Our event is a Submit your designs by September 23rd,11:59 pm to be considered.",
+                    "newApplicationsCount": 0,
+                    "location": "Los Angeles, CA",
+                    "shareableImage": null,
+                    "startDate": "2023-10-15T00:00:00.000Z",
+                    "uid": "2cWnvuxmo4eBAwxSyktC"
+                },
+                "company": {
+                    "createdAt": "Tue Aug 29 2023",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Flogo%2F6F0D1BCD-90CB-45AD-89B7-FE882995E1D7.jpeg?alt=media&token=a2547d67-9c9b-4af5-9f5b-3b4d0df57e60",
+                    "slug": "rendezflow",
+                    "phoneNumber": null,
+                    "users": [
+                        "bLTODwyWFsPDB4HcwhlFTKd6oJz2"
+                    ],
+                    "uid": "17eiVnaFAPS3rOP9x2vn",
+                    "name": "Asal Etemadi",
+                    "updatedAt": "Wed Aug 30 2023"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "2cWnvuxmo4eBAwxSyktC"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "location": "New York, NY",
+                    "uid": "8tPtmh0yIyXCzrfVFh9D",
+                    "listingTitle": "Models In NYC",
+                    "startDate": "2023-09-29T00:00:00.000Z",
+                    "updatedAt": "Tue Sep 19 2023",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Faxxshin-trading%2Fjobs%2F8tPtmh0yIyXCzrfVFh9D%2FIMG_5061.jpeg?alt=media&token=d2ce3450-c2f5-4bf0-894f-1984a6c1fb27",
+                    "createdAt": "Tue Sep 19 2023",
+                    "companyUid": "znYIzTCIEnd776Yh4uqL",
+                    "published": true,
+                    "endDate": "2023-09-29T00:00:00.000Z",
+                    "shareableImage": null,
+                    "newApplicationsCount": 3,
+                    "listingDescription": "I need of African American XL models (one male one female) for a day shoot in NYC for a street wear jacket brand",
+                    "industry": "Fashion",
+                    "profession": "Casting",
+                    "heartCount": 0,
+                    "budget": "150",
+                    "applicationsCount": 3
+                },
+                "company": {
+                    "users": [],
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Faxxshin-trading%2Flogo%2FIMG_4972.jpeg?alt=media&token=67122d0d-c8f1-4017-94bd-81d795ecd94c",
+                    "updatedAt": "Tue Sep 19 2023",
+                    "jobs": [],
+                    "phoneNumber": "+16178938813",
+                    "name": "Axxshin Trading",
+                    "createdAt": "Tue Sep 19 2023",
+                    "slug": "axxshin-trading",
+                    "uid": "znYIzTCIEnd776Yh4uqL"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "8tPtmh0yIyXCzrfVFh9D"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "budget": "TBD",
+                    "companyUid": "olpPhQxzu0cCiSkVwzfb",
+                    "createdAt": "Wed Sep 20 2023",
+                    "uid": "927AfMu90rl4IO9BCPhr",
+                    "startDate": "2023-10-03T00:00:00.000Z",
+                    "listingTitle": "Model Casting Call for Matcha Brand Shoot",
+                    "endDate": null,
+                    "listingDescription": "Looking for several models to shoot for ~1 hour in Santa Monica for a matcha startup based in LA. Paid; exact amount TBD. \nGreat portfolio-building opp for anyone looking to build their books with clean-cut commercial work.\nWill be a low-key day with a small crew + you'll leave with some delicious free matcha <3",
+                    "location": "Los Angeles, CA",
+                    "profession": "Casting",
+                    "newApplicationsCount": 42,
+                    "heartCount": 0,
+                    "shareableImage": null,
+                    "industry": "Other",
+                    "published": true,
+                    "updatedAt": "Wed Sep 20 2023",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fsj-spreng%2Fjobs%2F927AfMu90rl4IO9BCPhr%2Fb9fedbe14372a8b0e6654f8c8d8c7c27.jpg?alt=media&token=5e8ff231-ef15-46c0-831f-e5ba37807830",
+                    "applicationsCount": 42
+                },
+                "company": {
+                    "name": "SJ Spreng",
+                    "slug": "sj-spreng",
+                    "uid": "olpPhQxzu0cCiSkVwzfb",
+                    "users": [
+                        "qmItSP8uCuZGGYW3Yz1QLF65ZnD3"
+                    ],
+                    "createdAt": "Wed May 10 2023",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fsj-spreng%2Flogo%2FScreenshot%202023-05-10%20at%2012.06.47%20PM.png?alt=media&token=7ba710d9-ea8c-42bc-b711-ff2d6fe020c4",
+                    "updatedAt": "Wed May 10 2023"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "927AfMu90rl4IO9BCPhr"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "listingTitle": "Winter Internship 2024 - Reynolds Management",
+                    "heartCount": 0,
+                    "location": "Los Angeles, CA",
+                    "profession": "Other",
+                    "startDate": "2024-01-08T00:00:00.000Z",
+                    "endDate": "2024-05-07T00:00:00.000Z",
+                    "shareableImage": null,
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Freynolds-management%2Fjobs%2FBizoMBKC7TKozgKgNrsf%2FReynolds%20Management%20(profile%20pic).jpg?alt=media&token=09bbda50-2dc5-4f58-bd6f-10424620d4c3",
+                    "updatedAt": "Wed Sep 20 2023",
+                    "listingDescription": "Reynolds Management Internship Program is currently accepting applications for interns for Winter 2024. This opportunity will include work in music management, branding, digital marketing, merchandising, and more. We are looking for creative, hard-working, passionate individuals, not afraid to take initiative. This internship is for current undergrad students eligible to receive class credit. Weekly hours are flexible, 2-3 days a week is ideal.",
+                    "companyUid": "PBsjd0wGxMVRiqKnbxfQ",
+                    "published": true,
+                    "uid": "BizoMBKC7TKozgKgNrsf",
+                    "budget": "N/A",
+                    "createdAt": "Wed Sep 20 2023",
+                    "industry": "Music",
+                    "newApplicationsCount": 0,
+                    "applicationsCount": 2
+                },
+                "company": {
+                    "uid": "PBsjd0wGxMVRiqKnbxfQ",
+                    "slug": "reynolds-management",
+                    "createdAt": "Thu Aug 31 2023",
+                    "users": [
+                        "j4sTxLepkIWiHbyURPVeC3hz1V12"
+                    ],
+                    "phoneNumber": null,
+                    "updatedAt": "Thu Aug 31 2023",
+                    "name": "Reynolds Management",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Freynolds-management%2Flogo%2FReynolds%20Management%20(profile%20pic).jpg?alt=media&token=30b6117b-cd54-433d-8014-f768937078a8"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "BizoMBKC7TKozgKgNrsf"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "shareableImage": null,
+                    "budget": "200",
+                    "heartCount": 0,
+                    "location": "New York, NY",
+                    "listingTitle": "Videographer for self-produced show at Newark Arts Festival",
+                    "companyUid": "dGUfYeZERBu6895HItCW",
+                    "profession": "Photo/Video",
+                    "newApplicationsCount": 0,
+                    "updatedAt": "Tue Sep 05 2023",
+                    "uid": "DTx4CJUxDyzHvHPqR5Ap",
+                    "published": true,
+                    "startDate": "2023-09-28T00:00:00.000Z",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fhezza-fezza%2Fjobs%2FDTx4CJUxDyzHvHPqR5Ap%2FTranZenDanz%20flyer.png?alt=media&token=bce63077-6614-4799-b531-ccdda1e4a970",
+                    "endDate": null,
+                    "industry": "Music",
+                    "listingDescription": "We are searching for a videographer for our group exhibition and performance at the Newark Arts Festival with a full femme roster w/visual artists, dancers, singer/rappers and a saxophonist.\n\nThis live filming will host an intimate audience and will be put on in the production studio of Express Newark in Newark, NJ. \nSeptember 28th, 2023. 7-11pm\n \nWe are self-producing this show and are working with a small budget. ",
+                    "createdAt": "Tue Sep 05 2023",
+                    "applicationsCount": 7
+                },
+                "company": {
+                    "uid": "dGUfYeZERBu6895HItCW",
+                    "createdAt": "Tue Sep 05 2023",
+                    "slug": "hezza-fezza",
+                    "updatedAt": "Tue Sep 05 2023",
+                    "phoneNumber": "+12064731050",
+                    "users": [
+                        "fFapWcikttgIOJ6XaI1tFc5ToIB2"
+                    ],
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fhezza-fezza%2Flogo%2FHezza%20Fezza%20press%20photo%203.png?alt=media&token=bc20be2e-f392-4e59-a49a-decf4074475e",
+                    "name": "HeZza FeZza"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "DTx4CJUxDyzHvHPqR5Ap"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "published": true,
+                    "uid": "Lh0x8GRtsYdayPTc3lns",
+                    "startDate": "2023-10-07T00:00:00.000Z",
+                    "shareableImage": null,
+                    "industry": "Fashion",
+                    "createdAt": "Mon Sep 18 2023",
+                    "listingTitle": "Aldré - Looking for Model for new brand",
+                    "listingDescription": "Aldré is a new sustainable and unisex streetwear brand that will be launched some time this fall. We are looking for both male and female models to use on our website and social media marketing. The date for this shoot is TBD but hoping for early October.",
+                    "profession": "Designer",
+                    "heartCount": 0,
+                    "endDate": null,
+                    "location": "New York, NY",
+                    "companyUid": "0j2iyawoAWl3e7fArRN2",
+                    "updatedAt": "Mon Sep 18 2023",
+                    "budget": "TBD",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Faldr%2Fjobs%2FLh0x8GRtsYdayPTc3lns%2FAldre_Wonky_Black_insta.png?alt=media&token=e07fe2e5-3dfb-4145-b403-43c5f9e39207",
+                    "newApplicationsCount": 0,
+                    "applicationsCount": 22
+                },
+                "company": {
+                    "phoneNumber": "+19043438026",
+                    "name": "Aldré",
+                    "uid": "0j2iyawoAWl3e7fArRN2",
+                    "slug": "aldr",
+                    "updatedAt": "Mon Sep 18 2023",
+                    "createdAt": "Mon Sep 18 2023",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Faldr%2Flogo%2FAldre_Wonky_Black_insta.png?alt=media&token=d4f2d4d9-3847-4a29-b820-de6ea78ec28b",
+                    "users": [
+                        "gOb2kYGr3qXoQnCHzS48zSRVULp2"
+                    ]
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "Lh0x8GRtsYdayPTc3lns"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "industry": "Other",
+                    "heartCount": 0,
+                    "newApplicationsCount": 0,
+                    "companyUid": "9XsLfM1dvhnNTdniqFEl",
+                    "updatedAt": "Wed Sep 13 2023",
+                    "listingTitle": "Hair Models",
+                    "location": "Los Angeles, CA",
+                    "shareableImage": null,
+                    "published": true,
+                    "endDate": "2023-10-03T07:00:00.000Z",
+                    "createdAt": "Wed Sep 13 2023",
+                    "startDate": "2023-10-03T07:00:00.000Z",
+                    "uid": "O4dLPSKTYC602FAESsHi",
+                    "listingDescription": "Seeking models willing to do a hair transformation. This would be a complimentary service and would take about 6-8 hours, including cut, color, makeup, and photos.\nIf interested, send us an email at twotwentysocialclub@gmail.com with the subject line \"Hair Model\". Please include a recent photo of your hair and a brief description of any previous chemical treatments, permanent dye, bleach,or henna. TYSM! - @marisacuts , @itsmadisonalexis",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Ftwo-twenty-social-club%2Fjobs%2FO4dLPSKTYC602FAESsHi%2Fpage0%202.JPG?alt=media&token=b5377ef8-0957-4573-be4d-97d5b5e509aa",
+                    "budget": "N/A",
+                    "profession": "Hair and Makeup",
+                    "applicationsCount": 1
+                },
+                "company": {
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Ftwo-twenty-social-club%2Flogo%2FIMG_7907.jpg?alt=media&token=5db84f8f-1a42-41fc-9587-4d21f0a9d5ff",
+                    "slug": "two-twenty-social-club",
+                    "phoneNumber": "+12133733901",
+                    "createdAt": "Thu Sep 07 2023",
+                    "uid": "9XsLfM1dvhnNTdniqFEl",
+                    "name": "two twenty social club",
+                    "users": [
+                        "WDzE0Gs433ad0rF5f7oetwvGld93"
+                    ],
+                    "updatedAt": "Thu Sep 07 2023"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "O4dLPSKTYC602FAESsHi"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "newApplicationsCount": 0,
+                    "createdAt": "Wed Sep 20 2023",
+                    "published": true,
+                    "location": "New York, NY",
+                    "industry": "Music",
+                    "companyUid": "Tz3rXwE2wvElDs4ipYrg",
+                    "endDate": "2023-09-22T00:00:00.000Z",
+                    "listingTitle": "MUSIC VIDEO",
+                    "shareableImage": null,
+                    "listingDescription": "Looking for a creative director/videographer to shoot a music video for an artist in Manhattan after 4:30 pm on Friday 9/22. Song will release on 9/27 hence the quick turnaround. ",
+                    "startDate": "2023-09-22T00:00:00.000Z",
+                    "budget": "500",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fteam-gavn%2Fjobs%2FPrAlXK04pBHOdxBSrZlg%2FIMG_8354.JPG?alt=media&token=518708ea-ac93-41b0-8ed4-05b268fc88c1",
+                    "profession": "Video",
+                    "updatedAt": "Wed Sep 20 2023",
+                    "uid": "PrAlXK04pBHOdxBSrZlg",
+                    "heartCount": 0,
+                    "applicationsCount": 13
+                },
+                "company": {
+                    "phoneNumber": "+13103633812",
+                    "uid": "Tz3rXwE2wvElDs4ipYrg",
+                    "users": [
+                        "8cDrSyV0oHbIvnp8MCU6blJ5yzs1"
+                    ],
+                    "createdAt": "Sun Jul 30 2023",
+                    "updatedAt": "Sun Jul 30 2023",
+                    "slug": "team-gavn",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fteam-gavn%2Flogo%2F11-15.png?alt=media&token=8a546f05-ed12-4088-9fa5-d2516d9fd36c",
+                    "name": "1to1mgmt"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "PrAlXK04pBHOdxBSrZlg"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "listingTitle": "LA Fashion Week Runway Model Casting",
+                    "published": true,
+                    "applicationsCount": 14,
+                    "location": "Los Angeles, CA",
+                    "budget": "30",
+                    "endDate": null,
+                    "heartCount": 0,
+                    "createdAt": "Tue Aug 29 2023",
+                    "companyUid": "17eiVnaFAPS3rOP9x2vn",
+                    "shareableImage": null,
+                    "updatedAt": "Sun Sep 03 2023",
+                    "newApplicationsCount": 0,
+                    "uid": "WfbSOEdFVTLMazvU2Csu",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Fjobs%2FWfbSOEdFVTLMazvU2Csu%2FE65F35EB-7349-492E-859F-477046C1F211.png?alt=media&token=fdcb4ba3-520b-4bad-90fd-31638cb5bba0",
+                    "profession": "Casting",
+                    "startDate": "2023-10-15T00:00:00.000Z",
+                    "listingDescription": "Model Casting Call for LA Fashion Week Opener. We're searching for vibrant male and female models to light up our upcoming fashion show, igniting the stage at LA Fashion Week. Showcase your style and make your mark – seize the spotlight and submit your application today! Deadline extended to: September 25th, 11:59 pm. ",
+                    "industry": "Fashion"
+                },
+                "company": {
+                    "createdAt": "Tue Aug 29 2023",
+                    "name": "Asal Etemadi",
+                    "users": [
+                        "bLTODwyWFsPDB4HcwhlFTKd6oJz2"
+                    ],
+                    "uid": "17eiVnaFAPS3rOP9x2vn",
+                    "slug": "rendezflow",
+                    "updatedAt": "Wed Aug 30 2023",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Flogo%2F6F0D1BCD-90CB-45AD-89B7-FE882995E1D7.jpeg?alt=media&token=a2547d67-9c9b-4af5-9f5b-3b4d0df57e60",
+                    "phoneNumber": null
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "WfbSOEdFVTLMazvU2Csu"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "uid": "XaLMQl5uSWiuwDjBXBGk",
+                    "companyUid": "fx8IkVlJBoMJUFovvtFu",
+                    "newApplicationsCount": 0,
+                    "shareableImage": null,
+                    "listingTitle": "Casting Call for Jewelry Brand ",
+                    "createdAt": "Mon Aug 28 2023",
+                    "updatedAt": "Mon Aug 28 2023",
+                    "profession": "Casting",
+                    "budget": "TBD",
+                    "endDate": null,
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fjacqueline-kulla%2Fjobs%2FXaLMQl5uSWiuwDjBXBGk%2F639345F0-7AB1-4281-AB4F-E53674C53191.jpeg?alt=media&token=01d0d4fa-b940-4170-98f2-a5c22b19d5cc",
+                    "startDate": "2023-10-01T00:00:00.000Z",
+                    "listingDescription": "Hi! Looking to cast some redheads for a shoot for my jewelry brand. No other parameters just red hair, preferably natural but open to everybody. ",
+                    "published": true,
+                    "industry": "Fashion",
+                    "location": "Los Angeles, CA",
+                    "heartCount": 0,
+                    "applicationsCount": 14
+                },
+                "company": {
+                    "users": [
+                        "AkXVtTc5EVR1zHzC9HQKWwDfIvd2"
+                    ],
+                    "updatedAt": "Wed May 10 2023",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fjacqueline-kulla%2Flogo%2FIMG_3013.jpg?alt=media&token=994b28aa-f4cf-4946-a08e-d6f5a00e5fd9",
+                    "slug": "jacqueline-kulla",
+                    "name": "Jacqueline kulla",
+                    "createdAt": "Wed May 10 2023",
+                    "uid": "fx8IkVlJBoMJUFovvtFu"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "XaLMQl5uSWiuwDjBXBGk"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "profession": "Other",
+                    "endDate": "2024-05-07T00:00:00.000Z",
+                    "listingTitle": "Winter Internship 2024 - Reynolds Management",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Freynolds-management%2Fjobs%2Fa7jI4Jm3zzJzWYlpS1tO%2FReynolds%20MGMT%20(logo%20only).jpg?alt=media&token=37687d6f-55f5-434a-96a3-6f32fafe2a16",
+                    "listingDescription": "Reynolds Management Internship Program is currently accepting applications for interns for Winter 2024. This opportunity will include work in music management, branding, digital marketing, merchandising, and more. We are looking for creative, hard-working, passionate individuals, not afraid to take initiative. This internship is for current undergrad students eligible to receive class credit. Weekly hours are flexible, 2-3 days a week is ideal.",
+                    "heartCount": 0,
+                    "createdAt": "Wed Sep 20 2023",
+                    "budget": "N/A",
+                    "updatedAt": "Wed Sep 20 2023",
+                    "published": true,
+                    "location": "Remote",
+                    "industry": "Music",
+                    "startDate": "2024-01-08T00:00:00.000Z",
+                    "newApplicationsCount": 0,
+                    "uid": "a7jI4Jm3zzJzWYlpS1tO",
+                    "companyUid": "PBsjd0wGxMVRiqKnbxfQ",
+                    "shareableImage": null,
+                    "applicationsCount": 3
+                },
+                "company": {
+                    "phoneNumber": null,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Freynolds-management%2Flogo%2FReynolds%20Management%20(profile%20pic).jpg?alt=media&token=30b6117b-cd54-433d-8014-f768937078a8",
+                    "createdAt": "Thu Aug 31 2023",
+                    "slug": "reynolds-management",
+                    "name": "Reynolds Management",
+                    "users": [
+                        "j4sTxLepkIWiHbyURPVeC3hz1V12"
+                    ],
+                    "uid": "PBsjd0wGxMVRiqKnbxfQ",
+                    "updatedAt": "Thu Aug 31 2023"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "a7jI4Jm3zzJzWYlpS1tO"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "industry": "Music",
+                    "startDate": "2023-09-25T00:00:00.000Z",
+                    "listingTitle": "Atlanta Female Models",
+                    "budget": "500",
+                    "createdAt": "Mon Sep 18 2023",
+                    "published": true,
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2F10kprojects%2Fjobs%2FgjIEDK7LC5QItOVZdMvu%2FScreen%20Shot%202023-09-13%20at%203.59.55%20PM.png?alt=media&token=28ff7d9f-0eb5-46c8-a748-3d226c14eaff",
+                    "location": "Atlanta, GA",
+                    "profession": "Photo/Video",
+                    "listingDescription": "Please apply with a link to your portfolio/Instagram.",
+                    "newApplicationsCount": 1,
+                    "shareableImage": null,
+                    "endDate": "2023-09-25T00:00:00.000Z",
+                    "companyUid": "EMd7CorVWDzpsc9gDtDU",
+                    "uid": "gjIEDK7LC5QItOVZdMvu",
+                    "updatedAt": "Mon Sep 18 2023",
+                    "heartCount": 0,
+                    "applicationsCount": 6
+                },
+                "company": {
+                    "updatedAt": "Tue Aug 08 2023",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2F10kprojects%2Flogo%2Foriginal_00dd9ebac742c9db01f0eaa27d94a4a7.jpeg?alt=media&token=ff9cc3ea-c9f9-4e3f-9b3b-abcc948d3337",
+                    "uid": "EMd7CorVWDzpsc9gDtDU",
+                    "phoneNumber": "+13234916741",
+                    "users": [
+                        "uot9jDZGqZUFhb8s4vRQEU4rXZf2"
+                    ],
+                    "slug": "10kprojects",
+                    "createdAt": "Tue Jul 25 2023",
+                    "name": "Jules"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "gjIEDK7LC5QItOVZdMvu"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "endDate": null,
+                    "newApplicationsCount": 0,
+                    "shareableImage": null,
+                    "companyUid": "cy1qPAaZhaFlItgBdhEy",
+                    "published": true,
+                    "location": "Los Angeles, CA",
+                    "heartCount": 0,
+                    "budget": "TBD",
+                    "listingTitle": "Set Designer",
+                    "updatedAt": "Fri Sep 01 2023",
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fhammersaw%2Fjobs%2FlFwASSErrffAormeKRUn%2FE2515860-A505-4D0B-9761-79E52FF81C32.jpeg?alt=media&token=5d2d0457-70cf-4570-abbc-1ae85d9e837c",
+                    "profession": "Production",
+                    "startDate": "2023-11-01T00:00:00.000Z",
+                    "uid": "lFwASSErrffAormeKRUn",
+                    "industry": "Film",
+                    "createdAt": "Fri Sep 01 2023",
+                    "listingDescription": "Looking for an experienced set designer for a large project in November.  ",
+                    "applicationsCount": 7
+                },
+                "company": {
+                    "slug": "hammersaw",
+                    "name": "HammerSaw ",
+                    "createdAt": "Wed May 10 2023",
+                    "users": [
+                        "w3opNSCxE8fnPrD6dNwlfNDpkVA3"
+                    ],
+                    "updatedAt": "Wed May 10 2023",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fhammersaw%2Flogo%2F5899DC02-1F70-4DA4-960A-6C99C0B00E3A.png?alt=media&token=6d0c92bc-7934-4c39-85b8-a783a1a5141b",
+                    "uid": "cy1qPAaZhaFlItgBdhEy"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "lFwASSErrffAormeKRUn"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fframes-by-kate-2%2Fjobs%2FnB3uvb32bV0GN378XykZ%2Fbrooklyn-bridge-park-jane-carousel-horse-water-js-980x1230-c-default.jpg?alt=media&token=35562808-1893-4764-831c-28bccc4a14e9",
+                    "newApplicationsCount": 0,
+                    "listingDescription": "Shooting a short dance film in late September. Looking for a producer & colorist! \n\nShooting in Brooklyn on September 30th + October 1st. ",
+                    "listingTitle": "Producer & Colorist for Short Film: Past Lives",
+                    "createdAt": "Sun Sep 03 2023",
+                    "profession": "Director",
+                    "endDate": null,
+                    "industry": "Film",
+                    "heartCount": 0,
+                    "published": true,
+                    "shareableImage": null,
+                    "companyUid": "UwMu2gxwTW0YYuuPlcn6",
+                    "uid": "nB3uvb32bV0GN378XykZ",
+                    "location": "New York, NY",
+                    "startDate": "2023-09-30T00:00:00.000Z",
+                    "updatedAt": "Sun Sep 03 2023",
+                    "budget": "TBD",
+                    "applicationsCount": 16
+                },
+                "company": {
+                    "name": "Frames by Kate",
+                    "phoneNumber": "+16509306229",
+                    "createdAt": "Sun Jul 30 2023",
+                    "updatedAt": "Sun Jul 30 2023",
+                    "users": [
+                        "dwCMqBsYdhdGXrL7dal3I1lk5ui1"
+                    ],
+                    "slug": "frames-by-kate-2",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fframes-by-kate-2%2Flogo%2Fportrait%201%20copy.JPG?alt=media&token=6f84bb1d-7bc2-41ab-b189-8583e2393ece",
+                    "uid": "UwMu2gxwTW0YYuuPlcn6"
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "nB3uvb32bV0GN378XykZ"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    {
+        "props": {
+            "pageProps": {
+                "job": {
+                    "uid": "qn1ekgKZ1he0u4UGgJmB",
+                    "industry": "Film",
+                    "budget": "500",
+                    "startDate": "2023-10-05T00:00:00.000Z",
+                    "published": true,
+                    "shareableImage": null,
+                    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fmadbrains%2Fjobs%2Fqn1ekgKZ1he0u4UGgJmB%2Fjob%20post.jpg?alt=media&token=7118ae7e-e5af-4783-860f-6df97db82bba",
+                    "updatedAt": "Thu Sep 21 2023",
+                    "profession": "Photo/Video",
+                    "companyUid": "ulKfoV30PKoTJ0v72jHr",
+                    "heartCount": 0,
+                    "location": "Miami, FL",
+                    "listingDescription": "We are hosting a private artist release party. We need an event recap of around 1 minute, and a couple event recap pictures. General coverage of the event, capture people having fun and the activities taking place.",
+                    "listingTitle": "Event recap video & Pictures",
+                    "endDate": null,
+                    "newApplicationsCount": 0,
+                    "createdAt": "Thu Sep 21 2023",
+                    "applicationsCount": 15
+                },
+                "company": {
+                    "updatedAt": "Thu Sep 21 2023",
+                    "uid": "ulKfoV30PKoTJ0v72jHr",
+                    "slug": "madbrains",
+                    "phoneNumber": "+17864490588",
+                    "createdAt": "Thu Sep 21 2023",
+                    "name": "MadBrains",
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fmadbrains%2Flogo%2Fmad%20brains%20logo.png?alt=media&token=0445fd51-7e15-435a-a41d-f2a2a774db41",
+                    "users": [
+                        "0VdPvGxUAdgMH55X4ExFRmDFUNu2"
+                    ]
+                },
+                "expired": false
+            },
+            "__N_SSP": true
+        },
+        "page": "/listings/[jobUid]",
+        "query": {
+            "jobUid": "qn1ekgKZ1he0u4UGgJmB"
+        },
+        "buildId": "xudiWL-uG0CfzUpoH2Urs",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    }
+]

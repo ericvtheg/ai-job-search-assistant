@@ -1,0 +1,47 @@
+{
+    "props": {
+        "pageProps": {
+            "job": {
+                "location": "New York, NY",
+                "uid": "8tPtmh0yIyXCzrfVFh9D",
+                "listingTitle": "Models In NYC",
+                "startDate": "2023-09-29T00:00:00.000Z",
+                "updatedAt": "Tue Sep 19 2023",
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Faxxshin-trading%2Fjobs%2F8tPtmh0yIyXCzrfVFh9D%2FIMG_5061.jpeg?alt=media&token=d2ce3450-c2f5-4bf0-894f-1984a6c1fb27",
+                "createdAt": "Tue Sep 19 2023",
+                "companyUid": "znYIzTCIEnd776Yh4uqL",
+                "published": true,
+                "endDate": "2023-09-29T00:00:00.000Z",
+                "shareableImage": null,
+                "newApplicationsCount": 3,
+                "listingDescription": "I need of African American XL models (one male one female) for a day shoot in NYC for a street wear jacket brand",
+                "industry": "Fashion",
+                "profession": "Casting",
+                "heartCount": 0,
+                "budget": "150",
+                "applicationsCount": 3
+            },
+            "company": {
+                "users": [],
+                "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Faxxshin-trading%2Flogo%2FIMG_4972.jpeg?alt=media&token=67122d0d-c8f1-4017-94bd-81d795ecd94c",
+                "updatedAt": "Tue Sep 19 2023",
+                "jobs": [],
+                "phoneNumber": "+16178938813",
+                "name": "Axxshin Trading",
+                "createdAt": "Tue Sep 19 2023",
+                "slug": "axxshin-trading",
+                "uid": "znYIzTCIEnd776Yh4uqL"
+            },
+            "expired": false
+        },
+        "__N_SSP": true
+    },
+    "page": "/listings/[jobUid]",
+    "query": {
+        "jobUid": "8tPtmh0yIyXCzrfVFh9D"
+    },
+    "buildId": "xudiWL-uG0CfzUpoH2Urs",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

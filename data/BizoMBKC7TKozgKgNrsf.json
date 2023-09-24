@@ -1,0 +1,48 @@
+{
+    "props": {
+        "pageProps": {
+            "job": {
+                "listingTitle": "Winter Internship 2024 - Reynolds Management",
+                "heartCount": 0,
+                "location": "Los Angeles, CA",
+                "profession": "Other",
+                "startDate": "2024-01-08T00:00:00.000Z",
+                "endDate": "2024-05-07T00:00:00.000Z",
+                "shareableImage": null,
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Freynolds-management%2Fjobs%2FBizoMBKC7TKozgKgNrsf%2FReynolds%20Management%20(profile%20pic).jpg?alt=media&token=09bbda50-2dc5-4f58-bd6f-10424620d4c3",
+                "updatedAt": "Wed Sep 20 2023",
+                "listingDescription": "Reynolds Management Internship Program is currently accepting applications for interns for Winter 2024. This opportunity will include work in music management, branding, digital marketing, merchandising, and more. We are looking for creative, hard-working, passionate individuals, not afraid to take initiative. This internship is for current undergrad students eligible to receive class credit. Weekly hours are flexible, 2-3 days a week is ideal.",
+                "companyUid": "PBsjd0wGxMVRiqKnbxfQ",
+                "published": true,
+                "uid": "BizoMBKC7TKozgKgNrsf",
+                "budget": "N/A",
+                "createdAt": "Wed Sep 20 2023",
+                "industry": "Music",
+                "newApplicationsCount": 0,
+                "applicationsCount": 2
+            },
+            "company": {
+                "uid": "PBsjd0wGxMVRiqKnbxfQ",
+                "slug": "reynolds-management",
+                "createdAt": "Thu Aug 31 2023",
+                "users": [
+                    "j4sTxLepkIWiHbyURPVeC3hz1V12"
+                ],
+                "phoneNumber": null,
+                "updatedAt": "Thu Aug 31 2023",
+                "name": "Reynolds Management",
+                "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Freynolds-management%2Flogo%2FReynolds%20Management%20(profile%20pic).jpg?alt=media&token=30b6117b-cd54-433d-8014-f768937078a8"
+            },
+            "expired": false
+        },
+        "__N_SSP": true
+    },
+    "page": "/listings/[jobUid]",
+    "query": {
+        "jobUid": "BizoMBKC7TKozgKgNrsf"
+    },
+    "buildId": "xudiWL-uG0CfzUpoH2Urs",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

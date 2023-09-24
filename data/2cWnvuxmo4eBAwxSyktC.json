@@ -1,0 +1,48 @@
+{
+    "props": {
+        "pageProps": {
+            "job": {
+                "profession": "Designer",
+                "budget": "TBD",
+                "heartCount": 0,
+                "applicationsCount": 4,
+                "listingTitle": "LA Fashion Week:Designer Casting Call",
+                "published": true,
+                "updatedAt": "Thu Sep 21 2023",
+                "createdAt": "Tue Aug 29 2023",
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Fjobs%2F2cWnvuxmo4eBAwxSyktC%2FBEF6CF31-2AE7-4EA0-B773-2363C00D9E92.jpeg?alt=media&token=b02cc6b0-269c-41a0-b396-27cd4febca7c",
+                "endDate": null,
+                "companyUid": "17eiVnaFAPS3rOP9x2vn",
+                "industry": "Fashion",
+                "listingDescription": "Are you a designer with a signature style that breaks boundaries? We are looking for independent designers to showcase their work on our runway during the LA Fashion Week.We're on a mission to bridge the worlds of fashion and music, creating a stage where your designs will come to life alongside mesmerizing music performances. Our event is a Submit your designs by September 23rd,11:59 pm to be considered.",
+                "newApplicationsCount": 0,
+                "location": "Los Angeles, CA",
+                "shareableImage": null,
+                "startDate": "2023-10-15T00:00:00.000Z",
+                "uid": "2cWnvuxmo4eBAwxSyktC"
+            },
+            "company": {
+                "createdAt": "Tue Aug 29 2023",
+                "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Flogo%2F6F0D1BCD-90CB-45AD-89B7-FE882995E1D7.jpeg?alt=media&token=a2547d67-9c9b-4af5-9f5b-3b4d0df57e60",
+                "slug": "rendezflow",
+                "phoneNumber": null,
+                "users": [
+                    "bLTODwyWFsPDB4HcwhlFTKd6oJz2"
+                ],
+                "uid": "17eiVnaFAPS3rOP9x2vn",
+                "name": "Asal Etemadi",
+                "updatedAt": "Wed Aug 30 2023"
+            },
+            "expired": false
+        },
+        "__N_SSP": true
+    },
+    "page": "/listings/[jobUid]",
+    "query": {
+        "jobUid": "2cWnvuxmo4eBAwxSyktC"
+    },
+    "buildId": "xudiWL-uG0CfzUpoH2Urs",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

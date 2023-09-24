@@ -1,0 +1,48 @@
+{
+    "props": {
+        "pageProps": {
+            "job": {
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fframes-by-kate-2%2Fjobs%2FnB3uvb32bV0GN378XykZ%2Fbrooklyn-bridge-park-jane-carousel-horse-water-js-980x1230-c-default.jpg?alt=media&token=35562808-1893-4764-831c-28bccc4a14e9",
+                "newApplicationsCount": 0,
+                "listingDescription": "Shooting a short dance film in late September. Looking for a producer & colorist! \n\nShooting in Brooklyn on September 30th + October 1st. ",
+                "listingTitle": "Producer & Colorist for Short Film: Past Lives",
+                "createdAt": "Sun Sep 03 2023",
+                "profession": "Director",
+                "endDate": null,
+                "industry": "Film",
+                "heartCount": 0,
+                "published": true,
+                "shareableImage": null,
+                "companyUid": "UwMu2gxwTW0YYuuPlcn6",
+                "uid": "nB3uvb32bV0GN378XykZ",
+                "location": "New York, NY",
+                "startDate": "2023-09-30T00:00:00.000Z",
+                "updatedAt": "Sun Sep 03 2023",
+                "budget": "TBD",
+                "applicationsCount": 16
+            },
+            "company": {
+                "name": "Frames by Kate",
+                "phoneNumber": "+16509306229",
+                "createdAt": "Sun Jul 30 2023",
+                "updatedAt": "Sun Jul 30 2023",
+                "users": [
+                    "dwCMqBsYdhdGXrL7dal3I1lk5ui1"
+                ],
+                "slug": "frames-by-kate-2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fframes-by-kate-2%2Flogo%2Fportrait%201%20copy.JPG?alt=media&token=6f84bb1d-7bc2-41ab-b189-8583e2393ece",
+                "uid": "UwMu2gxwTW0YYuuPlcn6"
+            },
+            "expired": false
+        },
+        "__N_SSP": true
+    },
+    "page": "/listings/[jobUid]",
+    "query": {
+        "jobUid": "nB3uvb32bV0GN378XykZ"
+    },
+    "buildId": "xudiWL-uG0CfzUpoH2Urs",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

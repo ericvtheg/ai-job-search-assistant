@@ -1,0 +1,48 @@
+{
+    "props": {
+        "pageProps": {
+            "job": {
+                "listingTitle": "LA Fashion Week Runway Model Casting",
+                "published": true,
+                "applicationsCount": 14,
+                "location": "Los Angeles, CA",
+                "budget": "30",
+                "endDate": null,
+                "heartCount": 0,
+                "createdAt": "Tue Aug 29 2023",
+                "companyUid": "17eiVnaFAPS3rOP9x2vn",
+                "shareableImage": null,
+                "updatedAt": "Sun Sep 03 2023",
+                "newApplicationsCount": 0,
+                "uid": "WfbSOEdFVTLMazvU2Csu",
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Fjobs%2FWfbSOEdFVTLMazvU2Csu%2FE65F35EB-7349-492E-859F-477046C1F211.png?alt=media&token=fdcb4ba3-520b-4bad-90fd-31638cb5bba0",
+                "profession": "Casting",
+                "startDate": "2023-10-15T00:00:00.000Z",
+                "listingDescription": "Model Casting Call for LA Fashion Week Opener. We're searching for vibrant male and female models to light up our upcoming fashion show, igniting the stage at LA Fashion Week. Showcase your style and make your mark – seize the spotlight and submit your application today! Deadline extended to: September 25th, 11:59 pm. ",
+                "industry": "Fashion"
+            },
+            "company": {
+                "createdAt": "Tue Aug 29 2023",
+                "name": "Asal Etemadi",
+                "users": [
+                    "bLTODwyWFsPDB4HcwhlFTKd6oJz2"
+                ],
+                "uid": "17eiVnaFAPS3rOP9x2vn",
+                "slug": "rendezflow",
+                "updatedAt": "Wed Aug 30 2023",
+                "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Flogo%2F6F0D1BCD-90CB-45AD-89B7-FE882995E1D7.jpeg?alt=media&token=a2547d67-9c9b-4af5-9f5b-3b4d0df57e60",
+                "phoneNumber": null
+            },
+            "expired": false
+        },
+        "__N_SSP": true
+    },
+    "page": "/listings/[jobUid]",
+    "query": {
+        "jobUid": "WfbSOEdFVTLMazvU2Csu"
+    },
+    "buildId": "xudiWL-uG0CfzUpoH2Urs",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

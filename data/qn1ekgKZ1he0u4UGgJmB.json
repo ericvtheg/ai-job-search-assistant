@@ -1,0 +1,48 @@
+{
+    "props": {
+        "pageProps": {
+            "job": {
+                "uid": "qn1ekgKZ1he0u4UGgJmB",
+                "industry": "Film",
+                "budget": "500",
+                "startDate": "2023-10-05T00:00:00.000Z",
+                "published": true,
+                "shareableImage": null,
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fmadbrains%2Fjobs%2Fqn1ekgKZ1he0u4UGgJmB%2Fjob%20post.jpg?alt=media&token=7118ae7e-e5af-4783-860f-6df97db82bba",
+                "updatedAt": "Thu Sep 21 2023",
+                "profession": "Photo/Video",
+                "companyUid": "ulKfoV30PKoTJ0v72jHr",
+                "heartCount": 0,
+                "location": "Miami, FL",
+                "listingDescription": "We are hosting a private artist release party. We need an event recap of around 1 minute, and a couple event recap pictures. General coverage of the event, capture people having fun and the activities taking place.",
+                "listingTitle": "Event recap video & Pictures",
+                "endDate": null,
+                "newApplicationsCount": 0,
+                "createdAt": "Thu Sep 21 2023",
+                "applicationsCount": 15
+            },
+            "company": {
+                "updatedAt": "Thu Sep 21 2023",
+                "uid": "ulKfoV30PKoTJ0v72jHr",
+                "slug": "madbrains",
+                "phoneNumber": "+17864490588",
+                "createdAt": "Thu Sep 21 2023",
+                "name": "MadBrains",
+                "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fmadbrains%2Flogo%2Fmad%20brains%20logo.png?alt=media&token=0445fd51-7e15-435a-a41d-f2a2a774db41",
+                "users": [
+                    "0VdPvGxUAdgMH55X4ExFRmDFUNu2"
+                ]
+            },
+            "expired": false
+        },
+        "__N_SSP": true
+    },
+    "page": "/listings/[jobUid]",
+    "query": {
+        "jobUid": "qn1ekgKZ1he0u4UGgJmB"
+    },
+    "buildId": "xudiWL-uG0CfzUpoH2Urs",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

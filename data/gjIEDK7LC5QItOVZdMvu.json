@@ -1,0 +1,48 @@
+{
+    "props": {
+        "pageProps": {
+            "job": {
+                "industry": "Music",
+                "startDate": "2023-09-25T00:00:00.000Z",
+                "listingTitle": "Atlanta Female Models",
+                "budget": "500",
+                "createdAt": "Mon Sep 18 2023",
+                "published": true,
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2F10kprojects%2Fjobs%2FgjIEDK7LC5QItOVZdMvu%2FScreen%20Shot%202023-09-13%20at%203.59.55%20PM.png?alt=media&token=28ff7d9f-0eb5-46c8-a748-3d226c14eaff",
+                "location": "Atlanta, GA",
+                "profession": "Photo/Video",
+                "listingDescription": "Please apply with a link to your portfolio/Instagram.",
+                "newApplicationsCount": 1,
+                "shareableImage": null,
+                "endDate": "2023-09-25T00:00:00.000Z",
+                "companyUid": "EMd7CorVWDzpsc9gDtDU",
+                "uid": "gjIEDK7LC5QItOVZdMvu",
+                "updatedAt": "Mon Sep 18 2023",
+                "heartCount": 0,
+                "applicationsCount": 6
+            },
+            "company": {
+                "updatedAt": "Tue Aug 08 2023",
+                "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2F10kprojects%2Flogo%2Foriginal_00dd9ebac742c9db01f0eaa27d94a4a7.jpeg?alt=media&token=ff9cc3ea-c9f9-4e3f-9b3b-abcc948d3337",
+                "uid": "EMd7CorVWDzpsc9gDtDU",
+                "phoneNumber": "+13234916741",
+                "users": [
+                    "uot9jDZGqZUFhb8s4vRQEU4rXZf2"
+                ],
+                "slug": "10kprojects",
+                "createdAt": "Tue Jul 25 2023",
+                "name": "Jules"
+            },
+            "expired": false
+        },
+        "__N_SSP": true
+    },
+    "page": "/listings/[jobUid]",
+    "query": {
+        "jobUid": "gjIEDK7LC5QItOVZdMvu"
+    },
+    "buildId": "xudiWL-uG0CfzUpoH2Urs",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}

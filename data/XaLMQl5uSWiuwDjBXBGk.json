@@ -1,0 +1,47 @@
+{
+    "props": {
+        "pageProps": {
+            "job": {
+                "uid": "XaLMQl5uSWiuwDjBXBGk",
+                "companyUid": "fx8IkVlJBoMJUFovvtFu",
+                "newApplicationsCount": 0,
+                "shareableImage": null,
+                "listingTitle": "Casting Call for Jewelry Brand ",
+                "createdAt": "Mon Aug 28 2023",
+                "updatedAt": "Mon Aug 28 2023",
+                "profession": "Casting",
+                "budget": "TBD",
+                "endDate": null,
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fjacqueline-kulla%2Fjobs%2FXaLMQl5uSWiuwDjBXBGk%2F639345F0-7AB1-4281-AB4F-E53674C53191.jpeg?alt=media&token=01d0d4fa-b940-4170-98f2-a5c22b19d5cc",
+                "startDate": "2023-10-01T00:00:00.000Z",
+                "listingDescription": "Hi! Looking to cast some redheads for a shoot for my jewelry brand. No other parameters just red hair, preferably natural but open to everybody. ",
+                "published": true,
+                "industry": "Fashion",
+                "location": "Los Angeles, CA",
+                "heartCount": 0,
+                "applicationsCount": 14
+            },
+            "company": {
+                "users": [
+                    "AkXVtTc5EVR1zHzC9HQKWwDfIvd2"
+                ],
+                "updatedAt": "Wed May 10 2023",
+                "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fjacqueline-kulla%2Flogo%2FIMG_3013.jpg?alt=media&token=994b28aa-f4cf-4946-a08e-d6f5a00e5fd9",
+                "slug": "jacqueline-kulla",
+                "name": "Jacqueline kulla",
+                "createdAt": "Wed May 10 2023",
+                "uid": "fx8IkVlJBoMJUFovvtFu"
+            },
+            "expired": false
+        },
+        "__N_SSP": true
+    },
+    "page": "/listings/[jobUid]",
+    "query": {
+        "jobUid": "XaLMQl5uSWiuwDjBXBGk"
+    },
+    "buildId": "xudiWL-uG0CfzUpoH2Urs",
+    "isFallback": false,
+    "gssp": true,
+    "scriptLoader": []
+}
