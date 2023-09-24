@@ -26,7 +26,6 @@
                     "createdAt": "Tue Aug 29 2023",
                     "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Flogo%2F6F0D1BCD-90CB-45AD-89B7-FE882995E1D7.jpeg?alt=media&token=a2547d67-9c9b-4af5-9f5b-3b4d0df57e60",
                     "slug": "rendezflow",
-                    "phoneNumber": null,
                     "users": [
                         "bLTODwyWFsPDB4HcwhlFTKd6oJz2"
                     ],
@@ -75,7 +74,6 @@
                     "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Faxxshin-trading%2Flogo%2FIMG_4972.jpeg?alt=media&token=67122d0d-c8f1-4017-94bd-81d795ecd94c",
                     "updatedAt": "Tue Sep 19 2023",
                     "jobs": [],
-                    "phoneNumber": "+16178938813",
                     "name": "Axxshin Trading",
                     "createdAt": "Tue Sep 19 2023",
                     "slug": "axxshin-trading",
@@ -171,7 +169,6 @@
                     "users": [
                         "j4sTxLepkIWiHbyURPVeC3hz1V12"
                     ],
-                    "phoneNumber": null,
                     "updatedAt": "Thu Aug 31 2023",
                     "name": "Reynolds Management",
                     "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Freynolds-management%2Flogo%2FReynolds%20Management%20(profile%20pic).jpg?alt=media&token=30b6117b-cd54-433d-8014-f768937078a8"
@@ -217,7 +214,6 @@
                     "createdAt": "Tue Sep 05 2023",
                     "slug": "hezza-fezza",
                     "updatedAt": "Tue Sep 05 2023",
-                    "phoneNumber": "+12064731050",
                     "users": [
                         "fFapWcikttgIOJ6XaI1tFc5ToIB2"
                     ],
@@ -261,7 +257,6 @@
                     "applicationsCount": 22
                 },
                 "company": {
-                    "phoneNumber": "+19043438026",
                     "name": "Aldré",
                     "uid": "0j2iyawoAWl3e7fArRN2",
                     "slug": "aldr",
@@ -311,7 +306,6 @@
                 "company": {
                     "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Ftwo-twenty-social-club%2Flogo%2FIMG_7907.jpg?alt=media&token=5db84f8f-1a42-41fc-9587-4d21f0a9d5ff",
                     "slug": "two-twenty-social-club",
-                    "phoneNumber": "+12133733901",
                     "createdAt": "Thu Sep 07 2023",
                     "uid": "9XsLfM1dvhnNTdniqFEl",
                     "name": "two twenty social club",
@@ -357,7 +351,6 @@
                     "applicationsCount": 13
                 },
                 "company": {
-                    "phoneNumber": "+13103633812",
                     "uid": "Tz3rXwE2wvElDs4ipYrg",
                     "users": [
                         "8cDrSyV0oHbIvnp8MCU6blJ5yzs1"
@@ -413,8 +406,7 @@
                     "uid": "17eiVnaFAPS3rOP9x2vn",
                     "slug": "rendezflow",
                     "updatedAt": "Wed Aug 30 2023",
-                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Flogo%2F6F0D1BCD-90CB-45AD-89B7-FE882995E1D7.jpeg?alt=media&token=a2547d67-9c9b-4af5-9f5b-3b4d0df57e60",
-                    "phoneNumber": null
+                    "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Frendezflow%2Flogo%2F6F0D1BCD-90CB-45AD-89B7-FE882995E1D7.jpeg?alt=media&token=a2547d67-9c9b-4af5-9f5b-3b4d0df57e60"
                 },
                 "expired": false
             },
@@ -500,7 +492,6 @@
                     "applicationsCount": 3
                 },
                 "company": {
-                    "phoneNumber": null,
                     "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Freynolds-management%2Flogo%2FReynolds%20Management%20(profile%20pic).jpg?alt=media&token=30b6117b-cd54-433d-8014-f768937078a8",
                     "createdAt": "Thu Aug 31 2023",
                     "slug": "reynolds-management",
@@ -551,7 +542,6 @@
                     "updatedAt": "Tue Aug 08 2023",
                     "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2F10kprojects%2Flogo%2Foriginal_00dd9ebac742c9db01f0eaa27d94a4a7.jpeg?alt=media&token=ff9cc3ea-c9f9-4e3f-9b3b-abcc948d3337",
                     "uid": "EMd7CorVWDzpsc9gDtDU",
-                    "phoneNumber": "+13234916741",
                     "users": [
                         "uot9jDZGqZUFhb8s4vRQEU4rXZf2"
                     ],
@@ -644,7 +634,6 @@
                 },
                 "company": {
                     "name": "Frames by Kate",
-                    "phoneNumber": "+16509306229",
                     "createdAt": "Sun Jul 30 2023",
                     "updatedAt": "Sun Jul 30 2023",
                     "users": [
@@ -694,7 +683,6 @@
                     "updatedAt": "Thu Sep 21 2023",
                     "uid": "ulKfoV30PKoTJ0v72jHr",
                     "slug": "madbrains",
-                    "phoneNumber": "+17864490588",
                     "createdAt": "Thu Sep 21 2023",
                     "name": "MadBrains",
                     "image": "https://firebasestorage.googleapis.com/v0/b/surely-161e1.appspot.com/o/companies%2Fmadbrains%2Flogo%2Fmad%20brains%20logo.png?alt=media&token=0445fd51-7e15-435a-a41d-f2a2a774db41",
