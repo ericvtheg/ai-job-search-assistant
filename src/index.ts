@@ -51,7 +51,7 @@ async function queryLLM(vectorStore: MemoryVectorStore, query: string) {
       Following the job listings you will be given a prompt from a user.
       If you receive a job listing in the prompt include information about it in your response.
       Feel free to not include some of the listings provided if you think they are not relevant.
-      If more than one of the job listings provided is relevant include information about all of them.
+      If more than one of the job listings provided is relevant, include information about all of them.
       For every relevant job listing make sure to include the applicationUrl. 
       If none of the job listings are relevant, truthfully respond we don't have any relevant job listings at the moment.
       You are strictly to talk about SurelyWork and its job listings, do not talk about anything else.`,
