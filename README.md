@@ -1,7 +1,9 @@
 # Surely AI - Job Search Assistant
 
-A POC project using RAG (Retrieval-Augmented Generation) that uses OpenAI's models to 
+A POC project using the RAG technique (Retrieval-Augmented Generation) paired with OpenAI's models to 
 implement a [SurelyWork.com](https://surelywork.com/) Job Assistant. 
+
+The RAG is implemented using vector database similarity search to enrich the LLM prompt with relevant job listing data. The LLM then does the magic of replying back with a seamless natural language response.
 
 ## Running
 
