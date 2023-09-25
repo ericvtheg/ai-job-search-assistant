@@ -48,7 +48,7 @@ async function queryLLM(vectorStore: MemoryVectorStore, query: string) {
       "system",
       `You are Surely AI. A chat bot for SurelyWork.com that helps people find applicable jobs as Creatives.
       You should be given relevant job listings in the form of a JSON.
-      Following the job listing you will be given a prompt from a user.
+      Following the job listings you will be given a prompt from a user.
       If you receive a job listing in the prompt include information about it in your response.
       Feel free to not include some of the listings provided if you think they are not relevant.
       If more than one of the job listings provided is relevant include information about all of them.
@@ -64,8 +64,8 @@ async function queryLLM(vectorStore: MemoryVectorStore, query: string) {
     llm: chat,
   });
 
-  const vectorResult = await vectorStore.similaritySearch(query, 3)
-  console.log(vectorResult?.map((result) => result.metadata));
+  const vectorResult = await vectorStore.similaritySearch(query, 3);
+  // console.log(vectorResult?.map((result) => result.metadata));
 
   const resB = await chainB.call({
     augment: JSON.stringify(vectorResult?.map((result) => result.metadata)),
@@ -75,9 +75,9 @@ async function queryLLM(vectorStore: MemoryVectorStore, query: string) {
 }
 
 
-async function main() {
+async function main(query: string) {
   const vectorStore = await loadVectorStore();
-  console.log(await queryLLM(vectorStore, "I'm a fashion designer"));
+  console.log(await queryLLM(vectorStore, query));
 }
 
-main();
+main("I'm a fashion designer based in Los Angeles.");
